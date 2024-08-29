@@ -290,7 +290,7 @@
           $heart.innerHTML = "+";
         };
         $root.appendChild($container);
-      }
+      } 
       
       for (let i = 0; i < products.length; i++) {
         drawUi(products[i]);
